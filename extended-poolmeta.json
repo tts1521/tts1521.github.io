@@ -11,8 +11,8 @@
 			"discord_handle": ""
 		},
 		"about": {
-			"me": "Staking pool run by BotBoutique, a team of cryptocurrency enthusiasts with more than two years of experience in blockchain hosting solutions. Build your passive income portfolio and stake with us. For any help, you can reach us on the live chat, telegram, or email: contact@botboutique.eu",
-			"server": "One block producer, one backup, one public relay and one hidden relay distributed around the world."
+			"me": "During the time I was an employee at GIN Platform, the first masternode hosting service, my responsibilities included monitoring, upgrading and troubleshooting thousands of masternodes. My experience at GIN allowed me to learn how to properly run and maintain a blockchain node and gave me the expertise to run my Cardano pool.",
+			"server": "One block producer and four relays distributed in Europe and US. Total resources allocated: 14 Intel cores and 28 GB of RAM."
 		}
 	},
 	"telegram-admin-handle": {
